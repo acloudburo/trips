@@ -109,7 +109,7 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://trips.curation.space/tags/location.html</loc>
+    <loc>https://trips.curation.space/tags/locations.html</loc>
     <lastmod>2017-01-02</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
