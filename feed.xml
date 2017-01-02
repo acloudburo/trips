@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://trips.curation.space/2017/01/02/booking-site-sheepskin.html"/>
     <id>https://trips.curation.space/2017/01/02/booking-site-sheepskin.html</id>
     <published>2017-01-02T09:15:41Z</published>
-    <updated>2017-01-02T10:11:28+00:00</updated>
+    <updated>2017-01-02T10:25:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -68,12 +68,19 @@
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
-      &lt;/div&gt; &lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/26546bf91b8275fecc80e828d7798f64.png" /&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;       &lt;/p&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 10px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
