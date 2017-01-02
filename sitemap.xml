@@ -103,6 +103,18 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://trips.curation.space/tags/france.html</loc>
+    <lastmod>2017-01-02</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://trips.curation.space/tags/location.html</loc>
+    <lastmod>2017-01-02</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://trips.curation.space/2017.html</loc>
     <lastmod>2017-01-02</lastmod>
     <priority>1.0</priority>
