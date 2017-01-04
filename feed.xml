@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Trips</title>
-  <subtitle>My personal favourites</subtitle>
+  <title>My personal trip favourites</title>
+  <subtitle>Locations, Restaurants, Sites and more</subtitle>
   <id>https://trips.curation.space</id>
   <link href="https://trips.curation.space"/>
   <link href="https://trips.curation.space/feed.xml" rel="self"/>
