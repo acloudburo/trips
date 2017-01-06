@@ -61,6 +61,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://trips.curation.space/2017/01/06/carre-bleue-in-cagnes.html</loc>
+    <lastmod>2017-01-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://trips.curation.space/2017/01/02/booking-site-sheepskin.html</loc>
     <lastmod>2017-01-06</lastmod>
     <priority>0.7</priority>
@@ -97,6 +103,18 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://trips.curation.space/tags/france.html</loc>
+    <lastmod>2017-01-03</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://trips.curation.space/tags/restaurants.html</loc>
+    <lastmod>2017-01-03</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://trips.curation.space/tags/england.html</loc>
     <lastmod>2017-01-03</lastmod>
     <priority>0.9</priority>
@@ -104,12 +122,6 @@
   </url>
   <url>
     <loc>https://trips.curation.space/tags/booking-sites.html</loc>
-    <lastmod>2017-01-03</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://trips.curation.space/tags/france.html</loc>
     <lastmod>2017-01-03</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
@@ -130,6 +142,12 @@
     <loc>https://trips.curation.space/2017/01.html</loc>
     <lastmod>2017-01-03</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://trips.curation.space/2017/01/06.html</loc>
+    <lastmod>2017-01-03</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
