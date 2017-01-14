@@ -85,6 +85,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://trips.curation.space/2017/01/14/podere-ferranesi-a-dream-in-the-heart-of-tuscany.html</loc>
+    <lastmod>2017-01-14</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://trips.curation.space/footer4.html</loc>
     <lastmod>2017-01-03</lastmod>
     <priority>1.0</priority>
@@ -133,6 +139,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://trips.curation.space/tags/italy.html</loc>
+    <lastmod>2017-01-03</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://trips.curation.space/2017.html</loc>
     <lastmod>2017-01-03</lastmod>
     <priority>1.0</priority>
@@ -142,6 +154,12 @@
     <loc>https://trips.curation.space/2017/01.html</loc>
     <lastmod>2017-01-03</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://trips.curation.space/2017/01/14.html</loc>
+    <lastmod>2017-01-03</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
